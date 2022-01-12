@@ -1,12 +1,10 @@
 import React,{Component} from 'react';
 import './App.css';
 import {BrowserRouter as Router} from 'react-router-dom';
- import Sidebar from './components/sidebar/Sidebar';
+import Sidebar from './components/sidebar/Sidebar';
 import About from './components/about/About';
 import Education from './components/Education/Education';
 import Interest from './components/skills/Interest'
-import CarouselImages from './components/carousel/CarouselImages.js'
-
 
 class App extends Component {
 
@@ -25,11 +23,7 @@ class App extends Component {
             </nav>  
           </div>
             <div className="main">
-              <div>
-
-                 <CarouselImages />
-              </div>
-                 <About />
+                <About />
                 <Interest />
                 <Education />
             </div>
