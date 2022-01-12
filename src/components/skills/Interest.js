@@ -10,7 +10,7 @@ class Interest extends Component {
         <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
           <span className={classes.head}>WHAT I DO?</span>
           <h2 className={classes.heading}>HERE ARE SOME OF MY EXPERTISE</h2>
-          {/* <div className={classes.Interest}>
+          <div className={classes.Interest}>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
@@ -29,7 +29,7 @@ class Interest extends Component {
                 <p>I also have decent hand in developing website with WordPress.<br /> Adobe Photoshop, Adobe Illustrator, MS Office, C++, Github are my other fields of interest. </p>
               </div>
             </ScrollAnimation>
-          </div> */}
+          </div>
         </ScrollAnimation>
       </div>
     )
