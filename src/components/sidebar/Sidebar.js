@@ -18,10 +18,10 @@ class Sidebar extends Component {
     
                 <div className="flip-card-back">
                     <ul className="sidebar-nav">
-                        <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/sachin-mittal-476174158?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoRhF2EUsQJ%2BygJpLEZb%2FFA%3D%3D" rel="opener noreferrer" target="_blank" class="fa fas fa-linkedin fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="https://github.com/mittalsam98" rel="opener noreferrer" target="_blank" class="fa fas fa-github fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="https://www.instagram.com/decent_sachin.mittal/" rel="opener noreferrer" target="_blank" class="fa fas fa-instagram fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="mailto:mittalsam98@gmail.com" rel="opener noreferrer" target="_blank" class="fa fas fa-envelope fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"><a href="linkedin.com/in/morgan-chang-585b961a4/" rel="opener noreferrer" target="_blank" class="fa fas fa-linkedin fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="https://github.com/shin19991207" rel="opener noreferrer" target="_blank" class="fa fas fa-github fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="https://www.instagram.com/morganchang_/" rel="opener noreferrer" target="_blank" class="fa fas fa-instagram fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="mailto:shin19991207@gmail.com" rel="opener noreferrer" target="_blank" class="fa fas fa-envelope fa-lg"></a></li>
                     </ul>
                 </div>
               

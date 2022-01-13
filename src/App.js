@@ -4,7 +4,7 @@ import {BrowserRouter as Router} from 'react-router-dom';
 import Sidebar from './components/sidebar/Sidebar';
 import About from './components/about/About';
 import Education from './components/Education/Education';
-import Interest from './components/skills/Interest'
+import Project from './components/skills/Project'
 
 class App extends Component {
 
@@ -24,7 +24,7 @@ class App extends Component {
           </div>
             <div className="main">
                 <About />
-                <Interest />
+                <Project />
                 <Education />
             </div>
       </div>

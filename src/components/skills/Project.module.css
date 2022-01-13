@@ -7,7 +7,7 @@
     animation-duration: 7s;
     animation-timing-function: ease-out; */
 }
-.Interest {
+.Project {
     /* background-color:rgba(220, 220,220, 0.3); */
     border-radius:3px;
     margin-left:20px;
@@ -86,7 +86,7 @@ div>p{
 /*///////// Media Query //////////////*/
 @media (max-width:1027px){
     
-    .Interest {
+    .Project {
         grid-template-columns: 1fr;
     }
     .web{
@@ -105,7 +105,7 @@ div>p{
     .box{
         text-align: center;
     }
-    .Interest {
+    .Project {
         grid-template-columns: 1fr;
     }
     .app{
@@ -120,7 +120,7 @@ div>p{
 }
 
 @media (max-width:392px){
-    .Interest {
+    .Project {
         grid-template-columns: 1fr;
     }
     .app{
